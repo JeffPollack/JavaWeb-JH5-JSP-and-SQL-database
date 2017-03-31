@@ -1,0 +1,52 @@
+JH5 worksheet
+Comments: I like working with MySQL, this was a fun assignment :)
+
+***************** Class Participation    *****************
+Your Class Participation Entry for JH5:
+Discussion board containing your entry:  Thread: Sharings for JH5 
+Date of your Entry: 10/31/2016
+Subject Line of your entry: Sharings for JH5
+
+
+
+***************** Creating a JDBC program to create a table called states    *********
+
+JING URL demoing your Program.
+Jing video contains each portion of the assignment
+http://screencast.com/t/WihkCk8y
+
+Any optional comments regarding this problem.
+____________________________________
+
+
+
+***************** Creating a JDBC program to create a table called cities    *********
+
+JING URL demoing your Program.
+Jing video contains each portion of the assignment
+http://screencast.com/t/WihkCk8y
+
+Any optional comments regarding this problem.
+____________________________________
+
+
+
+***************** Select with a Join   *********
+
+JING URL demoing your Program.
+Jing video contains each portion of the assignment
+http://screencast.com/t/WihkCk8y
+
+Any optional comments regarding this problem.
+____________________________________
+
+
+
+***************** Delete and Update    *********
+
+JING URL demoing your Program.
+Jing video contains each portion of the assignment
+http://screencast.com/t/WihkCk8y
+
+Any optional comments regarding this problem.
+____________________________________
